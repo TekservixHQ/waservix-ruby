@@ -5,8 +5,8 @@ require_relative 'lib/waservix'
 Gem::Specification.new do |s|
   s.name        = 'waservix'
   s.version     = WAservix::VERSION
-  s.summary     = 'Official Ruby client for the WAservix WhatsApp API Gateway'
-  s.description = 'Send WhatsApp messages, images and documents from your own number with WAservix: status tracking, contacts, groups and webhooks. Works in Rails, Sinatra and plain Ruby.'
+  s.summary     = 'WAservix WhatsApp API Gateway: official Ruby client by Tekservix'
+  s.description = 'WAservix WhatsApp API Gateway. Send WhatsApp messages, images and documents from your own number with WAservix: status tracking, contacts, groups and webhooks. Works in Rails, Sinatra and plain Ruby.'
   s.authors     = ['Tekservix']
   s.email       = 'support@tekservix.com'
   s.homepage    = 'https://tekservix.com/waservix/'

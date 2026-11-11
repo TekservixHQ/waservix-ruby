@@ -12,7 +12,7 @@ require 'uri'
 #
 # Docs: https://tekservix.com/waservix/docs/
 module WAservix
-  VERSION = '1.0.0'
+  VERSION = '1.0.1'
   DEFAULT_BASE_URL = 'https://tekservix.com/waservix/api'
 
   # Raised when the API answers with an error. A 503 means the device is reconnecting.
